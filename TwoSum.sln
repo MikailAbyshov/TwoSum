@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumTests", "TwoSumTests\TwoSumTests.csproj", "{29162E45-7EAE-4710-A984-EB709BBB2F16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSumSol\TwoSum.csproj", "{25CD797F-F1AE-41C6-8BC6-21A928AFA4A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumLib", "TwoSumLib\TwoSumLib.csproj", "{43890DC1-44A5-46BA-86B1-7BECB4562958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29162E45-7EAE-4710-A984-EB709BBB2F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29162E45-7EAE-4710-A984-EB709BBB2F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29162E45-7EAE-4710-A984-EB709BBB2F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29162E45-7EAE-4710-A984-EB709BBB2F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CD797F-F1AE-41C6-8BC6-21A928AFA4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CD797F-F1AE-41C6-8BC6-21A928AFA4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CD797F-F1AE-41C6-8BC6-21A928AFA4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CD797F-F1AE-41C6-8BC6-21A928AFA4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43890DC1-44A5-46BA-86B1-7BECB4562958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43890DC1-44A5-46BA-86B1-7BECB4562958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43890DC1-44A5-46BA-86B1-7BECB4562958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43890DC1-44A5-46BA-86B1-7BECB4562958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B6A9F8B-3F2B-491F-900A-35D7D9B0D5B9}
+	EndGlobalSection
+EndGlobal
