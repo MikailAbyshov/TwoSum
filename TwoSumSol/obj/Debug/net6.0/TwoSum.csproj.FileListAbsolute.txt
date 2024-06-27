@@ -1,0 +1,15 @@
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\bin\Debug\net6.0\TwoSum.exe
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\bin\Debug\net6.0\TwoSum.deps.json
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\bin\Debug\net6.0\TwoSum.runtimeconfig.json
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\bin\Debug\net6.0\TwoSum.dll
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\bin\Debug\net6.0\TwoSum.pdb
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\TwoSum.csproj.AssemblyReference.cache
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\TwoSum.AssemblyInfoInputs.cache
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\TwoSum.AssemblyInfo.cs
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\TwoSum.dll
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\refint\TwoSum.dll
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\TwoSum.pdb
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\TwoSum.genruntimeconfig.cache
+C:\Users\mikail.abyshov\Desktop\TwoSum-master\TwoSumSol\obj\Debug\net6.0\ref\TwoSum.dll
